@@ -1,0 +1,2 @@
+There are more than twenty mathematical functions declared in <math.h>; here are some of 
+the more frequently used. Each takes one or two double arguments and returns a double.
